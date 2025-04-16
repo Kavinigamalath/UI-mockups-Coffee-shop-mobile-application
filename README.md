@@ -1,5 +1,7 @@
 # Coffee Shop App: UI mockups using Figma
 
+[Coffee Shop App UI Design in Figma [Click the link to view the design in Figma]](https://www.figma.com/design/keVm8G0TQm4FPzxGRJYKD2/Kavini-Gamalath-s-team-library?t=xAXPKXr5Al6bJwDh-1)
+
 Welcome to the **Coffee Shop App UI** repository! This project showcases the user interface design for a coffee shop mobile app created using **Figma**. The app is designed to provide coffee lovers with a seamless and intuitive experience for browsing the menu, placing orders, and managing their coffee preferences.
 
 This is a **UI-only** project, which focuses solely on the design and layout of the app interface. It is not a functional app, but rather a **Figma mockup** that showcases the user journey and app design.
