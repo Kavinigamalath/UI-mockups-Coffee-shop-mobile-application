@@ -13,6 +13,7 @@ This is a **UI-only** project, which focuses solely on the design and layout of 
 - [UI Design](#ui-design)
 - [How to View the Design](#how-to-view-the-design)
 - [Technologies Used](#technologies-used)
+- [Images](#images)
 
 
 ## About the App
@@ -74,6 +75,9 @@ This section focuses on the design of the Coffee Shop App user interface:
 - **Figma**: The primary design tool used to create the user interface mockups.
 - **Design System**: Utilized a custom design system for consistent UI components like buttons, input fields, and icons.
 - **Prototyping**: Built interactive prototypes within Figma to simulate app navigation and user flow.
+
+
+## Images
 
   Here is a preview of the Coffee Shop mobile application user interface in process order:
 
@@ -140,7 +144,4 @@ This section focuses on the design of the Coffee Shop App user interface:
 ---
 
 ### 📌 Note:
-All images are mockups of a mobile application UI for a coffee shop project designed by **Kavini Gamalath**.
-
-
-**Coffee Shop App UI** is a visual design created to showcase the user interface experience for a modern coffee shop mobile application. This app design aims to simplify the coffee ordering process and improve user satisfaction with an intuitive, easy-to-navigate interface.
+All images are mockups of a mobile application UI for a coffee shop project.
