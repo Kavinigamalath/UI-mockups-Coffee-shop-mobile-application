@@ -66,7 +66,7 @@ This section focuses on the design of the Coffee Shop App user interface:
 ## How to View the Design
 
 1. Open the Figma file at the following link:  
-   [[Coffee Shop App UI Design in Figma](#)](https://www.figma.com/design/keVm8G0TQm4FPzxGRJYKD2/Kavini-Gamalath-s-team-library?t=xAXPKXr5Al6bJwDh-1)  
+   [Coffee Shop App UI Design in Figma [Click the link to view the design in Figma]](https://www.figma.com/design/keVm8G0TQm4FPzxGRJYKD2/Kavini-Gamalath-s-team-library?t=xAXPKXr5Al6bJwDh-1) 
    
 2. You can explore the Figma file to interact with the screens and navigate through the different flows.
 
